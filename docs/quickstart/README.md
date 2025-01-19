@@ -7,17 +7,19 @@ This guide assumes you use Blender 4.2 or newer and have set it to English.
 
 ## Table of Contents
 
-- [Install the Blender Addon](#install-the-blender-addon)
-- [Setup the Bevy side](#setup-the-bevy-side)
-- [Setup the Blender addon for your project](#setup-the-blender-addon-for-your-project)
-- [Create a blueprint](#create-a-blueprint)
-- [Compose the world](#compose-the-world)
-- [Run your game](#run-your-game)
-- [Next Steps](#next-steps)
+- [Quickstart](#quickstart)
+  - [Table of Contents](#table-of-contents)
+  - [Install the Blender Addon](#install-the-blender-addon)
+  - [Setup the Bevy side](#setup-the-bevy-side)
+  - [Setup the Blender addon for your project](#setup-the-blender-addon-for-your-project)
+  - [Create a blueprint](#create-a-blueprint)
+  - [Compose the world](#compose-the-world)
+  - [Run your game](#run-your-game)
+  - [Next Steps](#next-steps)
 
 ## Install the Blender Addon
 
-- Download `blenvy.zip` from the [release page](https://github.com/kaosat-dev/Blenvy/releases/tag/blenvy_v0.1.0-alpha.1)
+- Download `blenvy.zip` from the [release page](https://github.com/kaosat-dev/Blenvy/releases/tag/blenvy_0.1.0-alpha.1)
 - Open Blender
 - Drag and drop `blenvy.zip` into Blender
   - <details>

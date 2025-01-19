@@ -1,5 +1,3 @@
-#![doc = include_str!("../../../README.md")]
-
 use bevy::{render::primitives::Aabb, utils::HashMap};
 use std::path::PathBuf;
 
