@@ -43,7 +43,7 @@ Here's a minimal usage example:
 # Cargo.toml
 [dependencies]
 bevy="0.14"
-blenvy = { version = "0.1.0-alpha.1"} 
+blenvy = { version = "0.1.1"} 
 
 ```
 
@@ -96,7 +96,7 @@ fn spawn_blueprint_instance(
 Add the following to your `[dependencies]` section in `Cargo.toml`:
 
 ```toml
-blenvy = "0.1.0-alpha.1"
+blenvy = "0.1.1"
 ```
 
 Or use `cargo add`:
